@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Flexible Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">Hello ini Home Fragment</string>
+    <string name="ke_halaman_cetegory">Ke Halaman Cetegory</string>
+</resources>
